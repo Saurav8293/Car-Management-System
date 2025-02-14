@@ -21,8 +21,8 @@ A **Java-based Web Application** that allows users to **add, update, delete, and
 
 ## 🛠 How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/Car-Management-System.git
-2. Import the project into your IDE (Eclipse/IntelliJ).
-3. Configure MySQL database (database.sql file included).
-4. Run the application on Tomcat Server.
-5. Open http://localhost:8080/CarManagement in your browser.
+   git clone https://github.com/Saurav8293/Car-Management-System.git
+3. Import the project into your IDE (Eclipse/IntelliJ).
+4. Configure MySQL database (database.sql file included).
+5. Run the application on Tomcat Server.
+6. Open http://localhost:8080/CarManagement in your browser.
