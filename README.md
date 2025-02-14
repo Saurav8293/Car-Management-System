@@ -25,4 +25,4 @@ A **Java-based Web Application** that allows users to **add, update, delete, and
 3. Import the project into your IDE (Eclipse/IntelliJ).
 4. Configure MySQL database (database.sql file included).
 5. Run the application on Tomcat Server.
-6. Open http://localhost:8080/CarManagement in your browser.
+6. Open http://localhost:8080/Car-Management-System in your browser.
